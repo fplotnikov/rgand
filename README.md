@@ -28,7 +28,7 @@
 
 #Result
 
-balancer - http://10.0.1.40
-web1 - http://10.0.1.41
-web2 - http://10.0.1.42
-jenkins  - http://10.0.1.50:8080
+> balancer - http://10.0.1.40<br>
+> web1 - http://10.0.1.41<br>
+> web2 - http://10.0.1.42<br>
+> jenkins  - http://10.0.1.50:8080<br>
