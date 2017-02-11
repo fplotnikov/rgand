@@ -1,0 +1,11 @@
+{
+  "name": "balancer",
+  "description": "balancer srv",
+  "json_class": "Chef::Role",
+  "default_attributes": {
+  },
+  "chef_type": "role",
+  "run_list": [
+    "recipe[rgang::balancer]"
+  ]
+}
